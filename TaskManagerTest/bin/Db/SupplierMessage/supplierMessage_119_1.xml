@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SupplierMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskId>119</TaskId>
+  <Message>New Task - 'Issue with connecting API.' has been created for you.</Message>
+</SupplierMessage>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MarketPlaceTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskId>5</TaskId>
+  <Title>New Task with External Supplier</Title>
+  <Description>New Task with External Supplier</Description>
+  <AssignedToId>2</AssignedToId>
+  <AssignedTo>
+    <Id>2</Id>
+    <UserId>john@test.com</UserId>
+    <Password>Test123</Password>
+    <FirstName>John</FirstName>
+    <LastName>Smith</LastName>
+  </AssignedTo>
+  <TaskPriority>Low</TaskPriority>
+  <TaskStatus>Closed</TaskStatus>
+  <ResolutionRemarks>Resolved with comments: Closed</ResolutionRemarks>
+  <CreateDate>2021-02-12T23:13:38.7039226-05:00</CreateDate>
+  <ClosedDate>2021-02-12T23:22:27.6885837-05:00</ClosedDate>
+</MarketPlaceTask>

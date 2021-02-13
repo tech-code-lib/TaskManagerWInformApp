@@ -1,0 +1,11 @@
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\obj\Debug\TaskManagerTest.csprojAssemblyReference.cache
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\obj\Debug\TaskManagerTest.csproj.CoreCompileInputs.cache
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\bin\Debug\TaskManagerTest.exe.config
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\bin\Debug\TaskManagerTest.exe
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\bin\Debug\TaskManagerTest.pdb
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\bin\Debug\TaskManagerBusinessLogic.dll
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\bin\Debug\TaskManagerBusinessLogic.pdb
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\obj\Debug\TaskManagerTest.csproj.CopyComplete
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\obj\Debug\TaskManagerTest.exe
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\obj\Debug\TaskManagerTest.pdb
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerTest\bin\Debug\DAL\Data\Users.xml

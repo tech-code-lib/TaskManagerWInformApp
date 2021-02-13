@@ -1,0 +1,15 @@
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\bin\Debug\TaskManager.exe.config
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\bin\Debug\TaskManager.exe
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\bin\Debug\TaskManager.pdb
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\obj\Debug\TaskManager.TaskManagerFrm.resources
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\obj\Debug\TaskManager.exe
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\obj\Debug\TaskManager.pdb
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\bin\Debug\DAL\Data\Users.xml
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\bin\Debug\TaskManagerBusinessLogic.dll
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\bin\Debug\TaskManagerBusinessLogic.pdb
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManager\obj\Debug\TaskManager.TaskFrm.resources

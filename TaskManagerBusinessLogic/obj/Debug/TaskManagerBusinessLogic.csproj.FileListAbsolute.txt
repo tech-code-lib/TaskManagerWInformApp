@@ -1,0 +1,7 @@
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerBusinessLogic\obj\Debug\TaskManagerBusinessLogic.csproj.CoreCompileInputs.cache
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerBusinessLogic\bin\Debug\TaskManagerBusinessLogic.dll
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerBusinessLogic\bin\Debug\TaskManagerBusinessLogic.pdb
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerBusinessLogic\obj\Debug\TaskManagerBusinessLogic.dll
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerBusinessLogic\obj\Debug\TaskManagerBusinessLogic.pdb
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerBusinessLogic\obj\Debug\TaskManagerBusinessLogic.csprojAssemblyReference.cache
+C:\TechCodeLib\Courses\TaskManagerApp\TaskManagerSln\TaskManagerBusinessLogic\bin\Debug\DAL\Data\Users.xml

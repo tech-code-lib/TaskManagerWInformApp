@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User>
+    <Id>1</Id>
+    <UserId>NoUserID</UserId>
+    <Password>Test123</Password>
+    <FirstName>NoUser</FirstName>
+    <LastName></LastName>
+  </User>
+  <User>
+    <Id>2</Id>
+    <UserId>john@test.com</UserId>
+    <Password>Test123</Password>
+    <FirstName>John</FirstName>
+    <LastName>Smith</LastName>
+  </User>
+  <User>
+    <Id>3</Id>
+    <UserId>rose@test.com</UserId>
+    <Password>Test123</Password>
+    <FirstName>Rose</FirstName>
+    <LastName>Berry</LastName>
+  </User>
+</Users>

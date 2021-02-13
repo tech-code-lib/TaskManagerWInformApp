@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MarketPlaceTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskId>120</TaskId>
+  <Title>Issue with connecting API.</Title>
+  <Description>Not able to connect production API from my Android app.</Description>
+  <AssignedToId>2</AssignedToId>
+  <TaskPriority>High</TaskPriority>
+  <TaskStatus>Closed</TaskStatus>
+  <ResolutionRemarks>Resolved a tuf task</ResolutionRemarks>
+  <CreateDate>2021-02-12T23:31:23.9658893-05:00</CreateDate>
+  <ClosedDate>2021-02-12T23:31:29.99818-05:00</ClosedDate>
+</MarketPlaceTask>
